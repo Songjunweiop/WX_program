@@ -1,0 +1,1 @@
+"D:\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-9gk9bztk4275ba51 --n invite_server --r --project "C:\Users\Administrator\WeChatProjects\miniprogram-1" --report_first --report
